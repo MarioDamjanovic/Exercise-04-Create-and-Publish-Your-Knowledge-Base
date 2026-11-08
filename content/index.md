@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Welcome to My Knowledge Base
 
 This knowledge base is dedicated to computers, networking, and cybersecurity. It provides organized information about computer hardware, operating systems, networking, cybersecurity, programming, and troubleshooting.
