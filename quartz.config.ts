@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "ggamel.github.io/template-knowledge-base-docs/",
+    baseUrl: "mariodamjanovic.github.io/Exercise-04-Create-and-Publish-Your-Knowledge-Base",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
